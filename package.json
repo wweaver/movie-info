@@ -1,0 +1,19 @@
+{
+  "name": "movie-info",
+  "version": "0.0.0",
+  "description": "Simple api to find movie information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Weaver",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wweaver/movie-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wweaver/movie-info/issues"
+  },
+  "homepage": "https://github.com/wweaver/movie-info"
+}
